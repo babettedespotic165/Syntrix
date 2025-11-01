@@ -1,0 +1,40 @@
+C:\Users\miles\Downloads\Syn Not so Trix\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miles\Downloads\Syn Not so Trix\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miles\Downloads\Syn Not so Trix\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miles\Downloads\Syn Not so Trix\bin\Release\net452\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\miles\Downloads\Syn Not so Trix\bin\Release\net452\Quasar.Common.Tests.dll
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Common.Tests\obj\Release\net452\Quasar.C.F62C16CF.Up2Date
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.dll
+C:\Users\miles\Downloads\New folder (3)\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miles\Downloads\New folder (3)\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miles\Downloads\New folder (3)\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miles\Downloads\New folder (3)\bin\Release\net452\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\miles\Downloads\New folder (3)\bin\Release\net452\Quasar.Common.Tests.dll
+C:\Users\miles\Downloads\New folder (3)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\New folder (3)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\New folder (3)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\New folder (3)\Quasar.Common.Tests\obj\Release\net452\Quasar.C.F62C16CF.Up2Date
+C:\Users\miles\Downloads\New folder (3)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.dll
+C:\Users\miles\Downloads\Synner\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miles\Downloads\Synner\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miles\Downloads\Synner\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miles\Downloads\Synner\bin\Release\net452\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\miles\Downloads\Synner\bin\Release\net452\Quasar.Common.Tests.dll
+C:\Users\miles\Downloads\Synner\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\Synner\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\Synner\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\Synner\Quasar.Common.Tests\obj\Release\net452\Quasar.C.F62C16CF.Up2Date
+C:\Users\miles\Downloads\Synner\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.dll
+C:\Users\miles\Downloads\New folder (4)\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miles\Downloads\New folder (4)\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miles\Downloads\New folder (4)\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miles\Downloads\New folder (4)\bin\Release\net452\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\miles\Downloads\New folder (4)\bin\Release\net452\Quasar.Common.Tests.dll
+C:\Users\miles\Downloads\New folder (4)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\New folder (4)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\New folder (4)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\New folder (4)\Quasar.Common.Tests\obj\Release\net452\Quasar.C.F62C16CF.Up2Date
+C:\Users\miles\Downloads\New folder (4)\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.dll
