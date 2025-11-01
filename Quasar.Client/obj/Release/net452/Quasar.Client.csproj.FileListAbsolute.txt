@@ -1,0 +1,36 @@
+C:\Users\miles\Downloads\Syn Not so Trix\bin\Release\net452\Client.exe.config
+C:\Users\miles\Downloads\Syn Not so Trix\bin\Release\net452\Client.exe
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Client\obj\Release\net452\Quasar.Client.Properties.Resources.resources
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.GenerateResource.cache
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Client\obj\Release\net452\Quasar.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Client\obj\Release\net452\Quasar.C.F9EC5847.Up2Date
+C:\Users\miles\Downloads\Syn Not so Trix\Quasar.Client\obj\Release\net452\Client.exe
+C:\Users\miles\Downloads\New folder (3)\bin\Release\net452\Client.exe.config
+C:\Users\miles\Downloads\New folder (3)\bin\Release\net452\Client.exe
+C:\Users\miles\Downloads\New folder (3)\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\New folder (3)\Quasar.Client\obj\Release\net452\Quasar.Client.Properties.Resources.resources
+C:\Users\miles\Downloads\New folder (3)\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.GenerateResource.cache
+C:\Users\miles\Downloads\New folder (3)\Quasar.Client\obj\Release\net452\Quasar.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\New folder (3)\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\New folder (3)\Quasar.Client\obj\Release\net452\Quasar.C.F9EC5847.Up2Date
+C:\Users\miles\Downloads\New folder (3)\Quasar.Client\obj\Release\net452\Client.exe
+C:\Users\miles\Downloads\Synner\bin\Release\net452\Client.exe.config
+C:\Users\miles\Downloads\Synner\bin\Release\net452\Client.exe
+C:\Users\miles\Downloads\Synner\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\Synner\Quasar.Client\obj\Release\net452\Quasar.Client.Properties.Resources.resources
+C:\Users\miles\Downloads\Synner\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.GenerateResource.cache
+C:\Users\miles\Downloads\Synner\Quasar.Client\obj\Release\net452\Quasar.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\Synner\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\Synner\Quasar.Client\obj\Release\net452\Quasar.C.F9EC5847.Up2Date
+C:\Users\miles\Downloads\Synner\Quasar.Client\obj\Release\net452\Client.exe
+C:\Users\miles\Downloads\New folder (4)\bin\Release\net452\Client.exe.config
+C:\Users\miles\Downloads\New folder (4)\bin\Release\net452\Client.exe
+C:\Users\miles\Downloads\New folder (4)\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\New folder (4)\Quasar.Client\obj\Release\net452\Quasar.Client.Properties.Resources.resources
+C:\Users\miles\Downloads\New folder (4)\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.GenerateResource.cache
+C:\Users\miles\Downloads\New folder (4)\Quasar.Client\obj\Release\net452\Quasar.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Downloads\New folder (4)\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\New folder (4)\Quasar.Client\obj\Release\net452\Quasar.C.F9EC5847.Up2Date
+C:\Users\miles\Downloads\New folder (4)\Quasar.Client\obj\Release\net452\Client.exe
